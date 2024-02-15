@@ -11,6 +11,7 @@
 ## Schedule 1
 - git to protect your work
 - git for versioning and rollback
+- basic commands/actions
 - branch system
 - merge
 
